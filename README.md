@@ -3,8 +3,7 @@
 
 - 🔭 I’m currently working on my **Discord Server-Bot**
 
-<h3 align="left">Connect with me:
-- Discord: electroJo#1337
+<h3 align="left">Connect with me on Discord: electroJo#1337
 </h3><p align="left">
 </p>
 
