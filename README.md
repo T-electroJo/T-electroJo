@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm electroJo</h1>
 <h3 align="center">I'm a Python and Server Developer</h3>
 
-- 🔭 I’m currently working on **Server-Bot**
+- 🔭 I’m currently working on my **Discord Server-Bot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
