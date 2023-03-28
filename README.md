@@ -4,6 +4,9 @@
 - 🔭 I’m currently working on my **Discord Server-Bot**
 
 <h3 align="left">Connect with me:</h3>
+
+- Discord: electroJo#1337
+
 <p align="left">
 </p>
 
