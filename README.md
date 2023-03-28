@@ -5,6 +5,7 @@
 
 <h3 align="left">Connect with me:
 
+  
 - Discord: electroJo#1337
 
 </h3><p align="left">
